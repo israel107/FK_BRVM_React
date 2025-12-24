@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "FK BRVM App",
-  description: "Real Time Stock prices",
+  description: "Real Time analysis BRVM Stock prices",
 };
 
 export default function RootLayout({
